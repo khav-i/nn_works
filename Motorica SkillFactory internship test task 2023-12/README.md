@@ -1,4 +1,4 @@
-# Motorica SkillFactory internship test task 2023-12
+# Классификация сигналов оптомиографических датчиков
 
 Данный проект вдохновлен соответствующим [соревнованием на Kaggle](https://www.kaggle.com/competitions/motorica-skillfactory-internship-test-task-2023-12/overview).
 
