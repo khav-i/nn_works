@@ -4,7 +4,8 @@
 
 Примеры:
 
-![image.png](attachment:b24e1ae2-2280-4aca-90bd-ea71e15e6cf7.png)
+![image.png](![image](https://github.com/khav-i/nn_works/assets/126453765/538a77a5-039c-4704-a6b9-8c3f41d15b26)
+)
 
 Данные для обучения содержатся в двух файлах: images.npy и labels.npy. Это формат numpy-массивов.
 
