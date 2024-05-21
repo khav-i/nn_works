@@ -17,4 +17,4 @@
 |9|[Классификация сигналов оптомиографических датчиков](https://github.com/khav-i/nn_works/blob/master/Motorica%20SkillFactory%20internship%20test%20task%202023-12/README.md)|Решение задачи классификации непрерывных команд от пользователя на основе данных, полученных от оптомиографических датчиков, с использованием алгоритма рекуррентной нейронной сети.|[Соревнование Kaggle](https://www.kaggle.com/competitions/motorica-skillfactory-internship-test-task-2023-12).|
 |10|[Captcha Recognition](https://github.com/khav-i/nn_works/blob/master/Captcha%20Recognition/README.md)|Задача распознавания букв английского алфавита на искаженных и зашумленных изображениях, используемых в стандартных тестах пользователя.|Transfer learning.|
 |11|[Transfer learning в решении задачи классификации цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification/README.md)|Transfer learning & fine tuning.|Efficientnet.|
-|11|[Классификация картин]()|Transfer learning & fine tuning.|Resnet34.|
+|12|[Классификация картин](https://github.com/khav-i/nn_works/blob/master/Paintings%20classification/README.md)|Transfer learning & fine tuning.|Resnet34.|
