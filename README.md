@@ -18,4 +18,4 @@
 |10|[Captcha Recognition](https://github.com/khav-i/nn_works/blob/master/Captcha%20Recognition/README.md)|Задача распознавания букв английского алфавита на искаженных и зашумленных изображениях, используемых в стандартных тестах пользователя.|Transfer learning.|
 |11|[Transfer learning в решении задачи классификации цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification/README.md)|Transfer learning & fine tuning.|Efficientnet.|
 |12|[Классификация картин](https://github.com/khav-i/nn_works/blob/master/Paintings%20classification/README.md)|Transfer learning & fine tuning.|Resnet34.|
-|12|[Классификация цветов]()|Transfer learning & fine tuning.|Resnet34.|
+|13|[Классификация цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification%20(5%20classes)/README.md)|Transfer learning & fine tuning.|Resnet34.|
