@@ -19,4 +19,4 @@
 |11|[Transfer learning в решении задачи классификации цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification/README.md)|Transfer learning & fine tuning.|Efficientnet.|
 |12|[Классификация картин](https://github.com/khav-i/nn_works/blob/master/Paintings%20classification/README.md)|Transfer learning & fine tuning.|Resnet34.|
 |13|[Классификация цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification%20(5%20classes)/README.md)|Transfer learning & fine tuning.|Resnet34.|
-|14|[Классификация кошек и собак]()|Transfer learning & fine tuning.|VGG16.|
+|14|[Классификация кошек и собак](https://github.com/khav-i/nn_works/blob/master/Cat%26Dog%20classification/README.md)|Transfer learning & fine tuning.|VGG16.|
