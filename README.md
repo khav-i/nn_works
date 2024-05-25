@@ -21,4 +21,4 @@
 |13|[Классификация цветов](https://github.com/khav-i/nn_works/blob/master/Flowers%20classification%20(5%20classes)/README.md)|Transfer learning & fine tuning.|Resnet34.|
 |14|[Классификация кошек и собак](https://github.com/khav-i/nn_works/blob/master/Cat%26Dog%20classification/README.md)|Transfer learning & fine tuning.|VGG16.|
 |15|[Классификация фотографий знаменитостей](https://github.com/khav-i/nn_works/blob/master/Celebrity%20photos%20classification/README.md)|Transfer learning.|Resnet34.|
-|16|[Классификация тарелок (чистая/грязная)]()|Transfer learning & fine tuning.|Конкурс на Kaggle.|
+|16|[Классификация тарелок (чистая/грязная)](https://github.com/khav-i/nn_works/blob/master/Cleaned%20vs%20Dirty%20(Plate%20classification)/README.md)|Transfer learning & fine tuning.|Конкурс на Kaggle.|
