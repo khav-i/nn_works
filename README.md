@@ -24,4 +24,4 @@
 |16|[Классификация тарелок (чистая/грязная)](https://github.com/khav-i/nn_works/blob/master/Cleaned%20vs%20Dirty%20(Plate%20classification)/README.md)|Transfer learning & fine tuning.|Конкурс на Kaggle.|
 |17|[Детекция объектов (VOC2012) Faster RCNN](https://github.com/khav-i/nn_works/blob/master/Object%20detection%20VOC2012%20(Faster%20RCNN)/README.md)|Решение задачи детекции объектов. Transfer learning.|Моя первая работа по детекции объектов!|
 |18|[Детекция объектов (VOC2012) YOLOv5](https://github.com/khav-i/nn_works/blob/master/Object%20detection%20VOC2012%20(YOLOv5)/README.md)|Решение задачи детекции объектов. Transfer learning.|Сравнение с Faster RCNN.|
-|19|[Детекция масок](https://github.com/khav-i/nn_works/blob/master/Face%20Mask%20Detection/README.md)|Решение задачи детекции объектов. Transfer learning.|Faster RCNN, YOLO.|
+|19|[Детекция масок](https://github.com/khav-i/nn_works/blob/master/Face%20Mask%20Detection/README.md)|Решение задачи детекции объектов. Transfer learning.|Faster RCNN, YOLOv8.|
