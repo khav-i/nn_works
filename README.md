@@ -25,3 +25,4 @@
 |17|[Детекция объектов (VOC2012) Faster RCNN](https://github.com/khav-i/nn_works/blob/master/Object%20detection%20VOC2012%20(Faster%20RCNN)/README.md)|Решение задачи детекции объектов. Transfer learning.|Моя первая работа по детекции объектов!|
 |18|[Детекция объектов (VOC2012) YOLOv5](https://github.com/khav-i/nn_works/blob/master/Object%20detection%20VOC2012%20(YOLOv5)/README.md)|Решение задачи детекции объектов. Transfer learning.|Сравнение с Faster RCNN.|
 |19|[Детекция масок](https://github.com/khav-i/nn_works/blob/master/Face%20Mask%20Detection/README.md)|Решение задачи детекции объектов. Transfer learning.|Faster RCNN, YOLOv8.|
+|20|[Обучение модели сегментации](https://github.com/khav-i/nn_works/blob/master/Cat%26Dog%20segmentation/README.md)|Решение задачи сегментации объектов на фотографиях кошек и собак из датасета Oxford-IIIT.|Обучение и валидация модели FCN Resnet50.|
