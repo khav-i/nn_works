@@ -27,3 +27,4 @@
 |19|[Детекция масок](https://github.com/khav-i/nn_works/blob/master/Face%20Mask%20Detection/README.md)|Решение задачи детекции объектов. Transfer learning.|Faster RCNN, YOLOv8.|
 |20|[Обучение модели сегментации](https://github.com/khav-i/nn_works/blob/master/Cat%26Dog%20segmentation/README.md)|Решение задачи сегментации объектов на фотографиях кошек и собак из датасета Oxford-IIIT.|Обучение и валидация модели FCN Resnet50.|
 |21|[Trimap extraction](https://github.com/khav-i/nn_works/blob/master/Trimap%20extraction/README.md)|Прогнозирование trimap.|Работа с DeepLabV3.|
+|22|[Cell Instance Segmentation]()|Сегментация экземпляров мозговых клеток человека.|Mask RCNN.|
