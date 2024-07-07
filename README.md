@@ -29,4 +29,5 @@
 |21|[Trimap extraction](https://github.com/khav-i/nn_works/blob/master/Trimap%20extraction/README.md)|Прогнозирование trimap.|Работа с DeepLabV3.|
 |22|[Cell Instance Segmentation](https://github.com/khav-i/nn_works/blob/master/Cell%20Instance%20Segmentation/README.md)|Сегментация экземпляров мозговых клеток человека.|Mask RCNN.|
 |23|[Spacecraft segmentation](https://github.com/khav-i/nn_works/blob/master/Spacecraft%20segmentation/README.md)|Сегментация космических аппаратов.|U-Net, YOLOv8.|
-|23|[Image Restoration (Autoencoder and MNIST)](https://github.com/khav-i/nn_works/blob/master/Image%20Restoration%20(Autoencoder%20and%20MNIST)/README.md)|Работа с простым автоэнкодером, обучение латентного пространства и экстракция ее представлений.|Самописный SimpleAutoEncoder.|
+|24|[Image Restoration (Autoencoder and MNIST)](https://github.com/khav-i/nn_works/blob/master/Image%20Restoration%20(Autoencoder%20and%20MNIST)/README.md)|Работа с простым автоэнкодером, обучение латентного пространства и экстракция ее представлений.|Самописный SimpleAutoEncoder.|
+|25|[Face generation (Brendan Freys dataset)]()|Обучение простого вариационного автокодировщика для генерации изображений человеческого лица.|Самописный вариационный автоэнкодер.|
