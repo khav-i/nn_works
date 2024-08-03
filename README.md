@@ -31,7 +31,8 @@
 |23|[Spacecraft segmentation](https://github.com/khav-i/nn_works/blob/master/Spacecraft%20segmentation/README.md)|Сегментация космических аппаратов.|U-Net, YOLOv8.|
 |24|[Image Restoration (Autoencoder and MNIST)](https://github.com/khav-i/nn_works/blob/master/Image%20Restoration%20(Autoencoder%20and%20MNIST)/README.md)|Работа с простым автоэнкодером, обучение латентного пространства и экстракция ее представлений.|Самописный SimpleAutoEncoder.|
 |25|[Face generation (Brendan Freys dataset)](https://github.com/khav-i/nn_works/blob/master/Face%20generation%20(Brendan%20Freys%20dataset)/README.md)|Обучение простого вариационного автокодировщика для генерации изображений человеческого лица.|Самописный вариационный автоэнкодер.|
-|26|[GAN & cats](https://github.com/khav-i/nn_works/tree/master/Cats%20generation)|Обучаем GAN-ы генерировать кошачьи мордашки.|Самописные GAN-ы: mlpgan, dcgan, wgan.|
+|26|[GANs & cats](https://github.com/khav-i/nn_works/tree/master/Cats%20generation)|Обучаем GAN-ы генерировать кошачьи мордашки.|Самописные GAN-ы: mlpgan, dcgan, wgan.|
 |27|[CycleGAN (zebras and horses)](https://github.com/khav-i/nn_works/blob/master/CycleGAN%20(zebras%20and%20horses)/README.md)|Обучаем CycleGAN перекрашивать лошадей в зебры и наоборот.|Самописный CycleGAN против оригинальной модели из репы авторов.|
 |28|[Working with GANs latent space](https://github.com/khav-i/nn_works/blob/master/Working%20with%20GANs%20latent%20space/README.md)|Исследование скрытого пространства для сгенерированных изображений.|Интерполяция между изображениями и простая веткорная арифметика.|
 |29|[MLP AAE (CelebA)](https://github.com/khav-i/nn_works/blob/master/MLP%20AAE%20(CelebA)/README.md)|Обучение MLP AAE на данных CelebA.|Ковыряемся в полученном латентном слое.|
+|30|[Style transfer]()|Пробуем обучать простые модельки для переноса стиля.|Т.н. Real-Time Style Transfer — на классических решениях.|
