@@ -13,4 +13,4 @@
 
 А вот так выглядит перенос стиля на фото одной певицы с помощью модели, обученной мной на картине Ван Гога *Звездная ночь*:
 
-![alt text](fast-neural-style/outputs/taylor.jpg)
+![alt text](fast-neural-style/outputs/taylor_resized.jpg)
