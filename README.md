@@ -36,4 +36,4 @@
 |28|[Working with GANs latent space](https://github.com/khav-i/nn_works/blob/master/Working%20with%20GANs%20latent%20space/README.md)|Исследование скрытого пространства для сгенерированных изображений.|Интерполяция между изображениями и простая веткорная арифметика.|
 |29|[MLP AAE (CelebA)](https://github.com/khav-i/nn_works/blob/master/MLP%20AAE%20(CelebA)/README.md)|Обучение MLP AAE на данных CelebA.|Ковыряемся в полученном латентном слое.|
 |30|[Style transfer](https://github.com/khav-i/nn_works/blob/master/Style%20transfer/README.md)|Пробуем обучать простые модельки для переноса стиля.|Т.н. Real-Time Style Transfer — на классических решениях.|
-|31|[Image coloring]()|Учимся красить картнки из COCO.|GAN on U-Net with Gen from Resnet.|
+|31|[Image coloring](https://github.com/khav-i/nn_works/blob/master/Image%20coloring/README.md)|Учимся красить картнки из COCO.|GAN on U-Net with Gen from Resnet.|
