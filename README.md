@@ -37,4 +37,4 @@
 |29|[MLP AAE (CelebA)](https://github.com/khav-i/nn_works/blob/master/MLP%20AAE%20(CelebA)/README.md)|Обучение MLP AAE на данных CelebA.|Ковыряемся в полученном латентном слое.|
 |30|[Style transfer](https://github.com/khav-i/nn_works/blob/master/Style%20transfer/README.md)|Пробуем обучать простые модельки для переноса стиля.|Т.н. Real-Time Style Transfer — на классических решениях.|
 |31|[Image coloring](https://github.com/khav-i/nn_works/blob/master/Image%20coloring/README.md)|Учимся красить картнки из COCO.|GAN on U-Net with Gen from Resnet.|
-|32|[Image denoising]()|Учимся восстанавливать зашумленные изображения из COCO.|DnCNN, UNet.|
+|32|[Image denoising](https://github.com/khav-i/nn_works/blob/master/Image%20denoising/README.md)|Учимся восстанавливать зашумленные изображения из COCO.|DnCNN, UNet.|
