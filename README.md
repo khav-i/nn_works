@@ -38,3 +38,4 @@
 |30|[Style transfer](https://github.com/khav-i/nn_works/blob/master/Style%20transfer/README.md)|Пробуем обучать простые модельки для переноса стиля.|Т.н. Real-Time Style Transfer — на классических решениях.|
 |31|[Image coloring](https://github.com/khav-i/nn_works/blob/master/Image%20coloring/README.md)|Учимся красить картнки из COCO.|GAN on U-Net with Gen from Resnet.|
 |32|[Image denoising](https://github.com/khav-i/nn_works/blob/master/Image%20denoising/README.md)|Учимся восстанавливать зашумленные изображения из COCO.|DnCNN, UNet.|
+|33|[Scratches and creases masks generation]()|Обучение генератора масок дефектов по изображениям с заломами и царапинами.|UNetPlusPlus from segmentation_models_pytorch.|
