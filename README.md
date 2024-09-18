@@ -39,4 +39,4 @@
 |31|[Image coloring](https://github.com/khav-i/nn_works/blob/master/Image%20coloring/README.md)|Учимся красить картнки из COCO.|GAN on U-Net with Gen from Resnet.|
 |32|[Image denoising](https://github.com/khav-i/nn_works/blob/master/Image%20denoising/README.md)|Учимся восстанавливать зашумленные изображения из COCO.|DnCNN, UNet.|
 |33|[Scratches and creases masks generation](https://github.com/khav-i/nn_works/blob/master/Scratches%20and%20creases%20masks%20generation/README.md)|Обучение генератора масок дефектов по изображениям с заломами и царапинами.|UNetPlusPlus from segmentation_models_pytorch.|
-|34|[SRGAN training]()|Обучение SRGAN на данных DIV-2K и Flickr2K.|Имплементация идеи из [статьи на arxiv](https://arxiv.org/abs/1609.04802).|
+|34|[SRGAN training](https://github.com/khav-i/nn_works/blob/master/SRGAN%20training/README.md)|Обучение SRGAN на данных DIV-2K и Flickr2K.|Имплементация идеи из [статьи на arxiv](https://arxiv.org/abs/1609.04802).|
